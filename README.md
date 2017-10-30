@@ -1,4 +1,4 @@
-# Newsfeed
+# Dog Newsfeed
 
 <!DOCTYPE html>
 <html lang="en">
