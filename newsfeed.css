@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+}
+
+h4 {
+    text-align: center;
+    color: black;
+}
+
+p {
+    text-align: center;
+    color: black;
+    background-color: white;
+    background: rgba(900,900,900,0.7);
+}
+
+body {
+    background-color: white;
+    background-image: url("dogs.jpg");
+}
