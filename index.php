@@ -11,7 +11,7 @@
       <link rel="stylesheet" type="text/css" href="newsfeed.css">
    </head>
    <body>
-		 <h1><?php theNewsfeed()?></h1>
+      <h1><?php theNewsfeed()?></h1>
       <?php
          foreach ($newsFeeds as $newsFeed) {
            $title = $newsFeed['title'];
